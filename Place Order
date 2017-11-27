@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <title>Button Web Page - Place Order</title>
+        
+    </head>
+<body>
+<h1 class="text"><a href="https://mail.google.com/mail/u/0/#inbox?compose=new">Order Here</a></h1><p class="text">(Order via email, attach the image file you want, <br>tell us what button you want and please state your name)</p>  
+    
+</body>    
+    
+</html>
+
+<style>
+body {
+    background: url('https://github.com/BurnheeSandurzz/Button-Summative-Project/blob/ButtonSummativeLogo/pinbackbuttons.jpg');
+ background-size: cover;
+    font-family: Arial;
+
+
+    
+    
+}    
+.text {
+    text-align: center;
+}
+
+    
+    
+    
+</style>
